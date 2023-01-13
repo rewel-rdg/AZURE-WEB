@@ -3,7 +3,6 @@ $serverName = "farmplanningportal.database.windows.net";
 $database = "FARM_PLANNING";
 $uid = "Admin";
 $pass = "#######";
-//$connection = odbc_connect('E-FarmContactDetails', 'AdminRDG', 'RDG#12345');
 $connect = [
     "Database" => $database,
     "Uid" => $uid,
