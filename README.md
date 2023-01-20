@@ -37,6 +37,11 @@ This Portal helps the user to find out New Technology, Technics, News related to
       1) [Confirmation Page](https://github.com/rewel-rdg/AZURE-WEB/edit/RG/README.md#Confirmation-Page-1)
       2) [Confirmation Mail](https://github.com/rewel-rdg/AZURE-WEB/edit/RG/README.md#Confirmation-Mail-1)
       3) [DATABASE PAGE](https://github.com/rewel-rdg/AZURE-WEB/edit/RG/README.md#DATABASE-PAGE-1)
+
+## DEMO VIDEO
+
+[![AZURE-WEB](https://img.youtube.com/vi/FI8bdSz52Ds)](https://www.youtube.com/watch?v=FI8bdSz52Ds)
+
 ## First Page
 
 <img width="947" alt="1" src="https://user-images.githubusercontent.com/92716465/209676020-fe22bdc9-ab39-414f-8f5f-0d34c06b9d65.png">
