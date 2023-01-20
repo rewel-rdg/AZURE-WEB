@@ -40,7 +40,7 @@ This Portal helps the user to find out New Technology, Technics, News related to
 
 ## DEMO VIDEO
 
-[![AZURE-WEB](https://img.youtube.com/vi/FI8bdSz52Ds)](https://www.youtube.com/watch?v=FI8bdSz52Ds)
+[![AZURE-WEB](https://img.youtube.com/vi/FI8bdSz52Ds/maxresdefault.jpg)](https://www.youtube.com/watch?v=FI8bdSz52Ds)
 
 ## First Page
 
